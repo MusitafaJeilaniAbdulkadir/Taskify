@@ -47,14 +47,5 @@
       "completed"
     ],
     "image": "/uploads/t.jpg"
-  },
-  {
-    "id": 1730795453118,
-    "title": [
-      "task  3"
-    ],
-    "description": "",
-    "status": "pending",
-    "image": "/uploads/task3.jpg"
   }
 ]
