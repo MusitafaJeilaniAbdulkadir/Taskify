@@ -38,10 +38,14 @@
   {
     "id": 1730743717282,
     "title": [
-      "task  1"
+      "Task 2"
     ],
-    "description": "",
-    "status": "pending",
-    "image": "/uploads/task.jpg"
+    "description": [
+      "Second Task"
+    ],
+    "status": [
+      "completed"
+    ],
+    "image": "/uploads/t.jpg"
   }
 ]
