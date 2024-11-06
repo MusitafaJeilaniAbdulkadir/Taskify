@@ -9,12 +9,29 @@
     "image": "/uploads/98e10dd56c831b8c903689f00"
   },
   {
-    "id": 1730808105233,
+    "id": 1730894932338,
     "title": [
-      "task  2"
+      "Task 1"
     ],
-    "description": "",
-    "status": "pending",
+    "description": [
+      "My first task"
+    ],
+    "status": [
+      "pending"
+    ],
+    "image": "/uploads/task.jpg"
+  },
+  {
+    "id": 1730895842681,
+    "title": [
+      "Task 2"
+    ],
+    "description": [
+      "My second task"
+    ],
+    "status": [
+      "completed"
+    ],
     "image": "/uploads/t.jpg"
   }
 ]
